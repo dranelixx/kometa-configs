@@ -1,5 +1,5 @@
 ######################################################
 #           Custom Show Collections                  #
 ######################################################
-# Placeholder for custom show collections.
 # Add show-specific collections here as needed.
+collections: {}
