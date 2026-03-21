@@ -1,0 +1,97 @@
+######################################################
+#         Custom Movie Collections                   #
+#  Collections not available via tmdb_collections    #
+#  (IMDB lists, Trakt lists, manual TMDB IDs)        #
+######################################################
+collections:
+  Charlie Brown:
+    imdb_list: https://www.imdb.com/list/ls054850259/
+    summary: Movies and TV Specials with the beloved Peanuts characters.
+    collection_order: release
+    collection_mode: hide
+  Cloverfield:
+    tmdb_movie:
+      - 7191    # Cloverfield (2008)
+      - 333371  # 10 Cloverfield Lane (2016)
+      - 384521  # The Cloverfield Paradox (2018)
+    summary: Cloverfield is an American science fiction anthology film series created by J. J. Abrams.
+    collection_order: release
+    collection_mode: hide
+  Cornetto Trilogy:
+    imdb_list: https://www.imdb.com/list/ls068623110/
+    summary: >-
+      An anthology series of British comedic genre films directed by Edgar Wright,
+      starring Simon Pegg and Nick Frost.
+    collection_order: release
+    collection_mode: hide
+  Final Fantasy:
+    imdb_list: https://www.imdb.com/list/ls022264056/
+    summary: A collection of films based off or closely associated with the Final Fantasy video games.
+    collection_order: release
+    collection_mode: hide
+  George Carlin Stand Up:
+    imdb_list: https://www.imdb.com/list/ls070221411/
+    summary: George Carlin's Stand Up Comedy HBO Specials.
+    collection_mode: hide
+  George Lopez Stand Up:
+    imdb_list: https://www.imdb.com/list/ls086584751/
+    summary: George Lopez's Stand Up Comedy Specials.
+    collection_mode: hide
+  Halo:
+    tmdb_list_details: 7070832
+    collection_order: release
+    collection_mode: hide
+  Jeff Dunham Stand Up:
+    imdb_list: https://www.imdb.com/list/ls086022668/
+    summary: Jeff Dunham's Stand Up Comedy Specials.
+    collection_mode: hide
+  Kevin Hart Stand Up:
+    imdb_list: https://www.imdb.com/list/ls049792208/
+    summary: Kevin Hart's Stand Up Comedy Specials.
+    collection_mode: hide
+  Monsterverse:
+    imdb_list: https://www.imdb.com/list/ls060980695/
+    summary: A collection of all the MonsterVerse movies.
+    collection_order: release
+    collection_mode: hide
+  Monty Python:
+    imdb_list: https://www.imdb.com/list/ls072012494/
+    summary: Monty Python is a British surreal comedy troupe who created sketch comedy television shows and movies.
+    collection_order: release
+    collection_mode: hide
+  Pokémon:
+    imdb_list: https://www.imdb.com/list/ls062687939/
+    summary: Pokémon animated and live action films.
+    collection_order: release
+    collection_mode: hide
+  Rent:
+    tmdb_list_details: 7072241
+    collection_order: release
+    collection_mode: hide
+  The Man with No Name:
+    imdb_list: https://www.imdb.com/list/ls023916334/
+    summary: Sergio Leone's Spaghetti Western trilogy starring Clint Eastwood.
+    collection_order: release
+    collection_mode: hide
+  The Three Stooges:
+    imdb_list: https://www.imdb.com/list/ls075972675/
+    tmdb_movie: 76489
+    summary: The Three Stooges vaudeville and comedy films.
+    collection_mode: hide
+  Tom and Jerry:
+    imdb_list: https://www.imdb.com/list/ls022966050/
+    summary: Tom and Jerry animated feature-length films.
+    collection_order: release
+    collection_mode: hide
+  Unbreakable:
+    imdb_list: https://www.imdb.com/list/ls022101006/
+    summary: >-
+      The Eastrail 177 Trilogy by M. Night Shyamalan:
+      Unbreakable (2000), Split (2016), and Glass (2019).
+    collection_order: release
+    collection_mode: hide
+  Marx Brothers:
+    imdb_list: https://www.imdb.com/list/ls068486735/
+    summary: The Marx Brothers comedy films from vaudeville, Broadway, and motion pictures.
+    collection_order: release
+    collection_mode: hide

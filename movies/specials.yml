@@ -1,0 +1,33 @@
+######################################################
+#            Special Genre Collections               #
+######################################################
+templates:
+  Special Genre:
+    sort_title: "!C <<collection_name>>"
+    collection_order: alpha
+    collection_mode: hide
+collections:
+  Mindfuck Movies:
+    template: { name: Special Genre }
+    trakt_list: https://trakt.tv/users/hdlists/lists/mindfuck-movies
+    summary: A collection of movies that will mess with your mind!
+  Outer Space & Exploration Movies:
+    template: { name: Special Genre }
+    trakt_list: https://trakt.tv/users/hdlists/lists/outer-space-space-exploration-movies
+    summary: A collection of movies that feature outer space and exploration.
+  Superhero Movies:
+    template: { name: Special Genre }
+    trakt_list: https://trakt.tv/users/hdlists/lists/superhero-movies-from-1980-to-today
+    summary: A collection of superhero movies released from 1980 until today.
+  Time Travel Movies:
+    template: { name: Special Genre }
+    trakt_list:
+      - https://trakt.tv/lists/3940186
+      - https://trakt.tv/lists/20709447
+      - https://trakt.tv/lists/2729898
+      - https://trakt.tv/lists/4297290
+      - https://trakt.tv/lists/2652307
+    imdb_list:
+      - https://www.imdb.com/list/ls068617191/
+      - https://www.imdb.com/list/ls004426453/
+    summary: A collection of movies that include time travel.

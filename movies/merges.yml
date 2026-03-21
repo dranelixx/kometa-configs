@@ -1,0 +1,42 @@
+######################################################
+#         Multi-TMDB-Collection Merges               #
+#  Combining separate TMDB collections into one      #
+######################################################
+templates:
+  Merge:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    sort_title: <<collection_name>>
+    collection_order: release
+    collection_mode: hide
+collections:
+  Middle Earth:
+    template: { name: Merge, collection: "119, 121938" }
+  Wizarding World:
+    template: { name: Merge, collection: "1241, 435259" }
+    summary: All Wizarding World movies, including Harry Potter and Fantastic Beasts.
+  Alien:
+    template: { name: Merge, collection: "8091, 135416" }
+  American Pie:
+    template: { name: Merge, collection: "2806, 298820" }
+  Appleseed:
+    template: { name: Merge, collection: "87800, 371526" }
+  DC Super Hero Girls:
+    template: { name: Merge, collection: "477208, 557495" }
+  Despicable Me:
+    template: { name: Merge, collection: "86066, 544669" }
+  Garfield:
+    template: { name: Merge, collection: "86115, 373918" }
+  Shaft:
+    template: { name: Merge, collection: "495, 608103" }
+  Teenage Mutant Ninja Turtles:
+    template: { name: Merge, collection: "1582, 401562", movie: 1273 }
+  Texas Chainsaw Massacre:
+    template: { name: Merge, collection: "111751, 425175" }
+  Tomb Raider:
+    template: { name: Merge, collection: "2467, 621142" }
+  X-Men:
+    template: { name: Merge, collection: "748, 453993, 448150", movie: 567604 }
