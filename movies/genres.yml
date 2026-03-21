@@ -109,7 +109,7 @@ collections:
     template: { name: IMDb Genre, genre: "romance,comedy", limit: 200 }
     summary: Romantic Comedy is a genre that attempts to catch the viewer's heart with the combination of love and humor. This sub-genre is light-hearted and usually places the two protagonists in humorous situations. Romantic-Comedy film revolves around a romantic ideal, such as true love. In the end, the ideal triumphs over the situation or obstacle, thus creating a happy ending.
     filters:
-      genre: Comedy
+      genre: Komödie
   Romantic Drama:
     template: { name: IMDb Genre, genre: "romance,drama", limit: 200 }
     summary: Romantic Drama film is a genre that explores the complex side of love. The plot usually centers around an obstacle that is preventing love between two people. The obstacles in Romantic Drama film can range from a family's disapproval, to forbidden love, to one's own psychological restraints. Many Romantic Dramas end with the lovers separating because of the enormity of the obstacle, the realization of incompatibility, or simply because of fate.
