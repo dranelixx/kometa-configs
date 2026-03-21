@@ -62,6 +62,8 @@ collections:
       - https://trakt.tv/users/mybicycle/lists/halloween
       - https://trakt.tv/users/jayinftl/lists/halloween
       - https://trakt.tv/users/roswellgeek/lists/halloween
+    schedule: range(10/01-10/31)
+    delete_not_scheduled: true
     summary: Halloween film is a genre that revolves around the plot involving Halloween.
   History:
     template: { name: IMDb Genre, genre: history }
