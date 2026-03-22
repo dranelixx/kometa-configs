@@ -43,5 +43,5 @@ collections:
     summary: Top Rated Shows across the internet
   Emmy Winners:
     template: { name: Chart, num: 5 }
-    imdb_list: https://www.imdb.com/list/ls066879822/
+    trakt_list: https://trakt.tv/users/pjcob/lists/emmy-winners
     summary: Emmy Winning Shows

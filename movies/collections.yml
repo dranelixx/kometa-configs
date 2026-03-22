@@ -430,7 +430,7 @@ collections:
   Ong Bak:
     template: { name: Collection, collection: 94589 }
   Oz:
-    template: { name: Collection, collection: 627517, movie: "13155, 68728" }
+    template: { name: Collection, movie: "13155, 68728" }
   Pacific Rim:
     template: { name: Collection, collection: 363369 }
   Paddington:
