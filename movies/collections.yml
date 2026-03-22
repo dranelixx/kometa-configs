@@ -18,7 +18,7 @@ collections:
     template: { name: Collection, collection: 100693 }
   101 Dalmatians (Live-Action):
     template: { name: Collection, collection: 124916 }
-  28 Days/Weeks Later:
+  28 Days Weeks Later:
     template: { name: Collection, collection: 1565 }
     name_mapping: 28 Days-Weeks Later
   3 Ninja:
