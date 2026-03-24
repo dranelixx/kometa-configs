@@ -203,6 +203,8 @@ collections:
     template: { name: Collection, collection: 8864 }
   Finding Nemo:
     template: { name: Collection, collection: 137697 }
+  Five Nights at Freddy's:
+    template: { name: Collection, collection: 1240438 }
   The Flintstones:
     template: { name: Collection, collection: 351684 }
   The Fox and the Hound:
