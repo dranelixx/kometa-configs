@@ -41,6 +41,8 @@ collections:
     template: { name: Collection, collection: 167613 }
   The Amazing Spider-Man:
     template: { name: Collection, collection: 125574 }
+  The Accountant:
+    template: { name: Collection, collection: 870339 }
   American Psycho:
     template: { name: Collection, collection: 86105 }
   An American Tail:
