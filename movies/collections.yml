@@ -60,6 +60,8 @@ collections:
     template: { name: Collection, collection: 402074 }
   Ant-Man:
     template: { name: Collection, collection: 422834 }
+  Avatar:
+    template: { name: Collection, collection: 87096 }
   Atlantis:
     template: { name: Collection, collection: 100965 }
   Attack on Titan:
