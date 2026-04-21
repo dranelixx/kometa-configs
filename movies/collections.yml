@@ -30,7 +30,7 @@ collections:
   Air Bud:
     template: { name: Collection, collection: 97445 }
   Aladdin:
-    template: { name: Collection, collection: 86027 }
+    template: { name: Collection, collection: 86027, movie: 420817 }
   Alice in Wonderland:
     template: { name: Collection, collection: 261307 }
   All Dogs Go to Heaven:
